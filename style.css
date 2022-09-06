@@ -1,0 +1,23 @@
+/* cosas de Css */
+/*https://htmlcheatsheet.com/css/*/
+
+/* id con el # */
+
+#A{
+    background-color: rgb(35, 35, 82);
+}
+
+/* class con el  .   */
+
+.Y{
+    background-color: rgb(255, 230, 0);
+}
+
+h1{
+    text-shadow: 2px 2px red;
+    color:aqua;
+  }
+
+a:hover{
+    font-size: large;
+}
